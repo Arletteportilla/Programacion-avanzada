@@ -14,3 +14,11 @@ print(multiplicacion())
 def division():
     return 6/3
 print(division())
+
+numberOne = 2
+numberTwo = 3
+result = numberOne+numberTwo 
+print (2+3)
+
+print("2+2")
+
