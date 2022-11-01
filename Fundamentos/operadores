@@ -11,7 +11,13 @@ print(type(entero))
 float = 5.4
 print(type(float))
 
-#String 
+complejo = 5j
+print(type(complejo))
+
 String = 'Holiii'
 print(type(String))
+
+#String 
+nombre = "Arlette"
+apellido = "Portilla"
 
