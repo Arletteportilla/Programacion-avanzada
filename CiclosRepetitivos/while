@@ -1,0 +1,8 @@
+#en este caso vamo sa trabajar con el ciclo while
+
+i = 0
+
+while i<=100:
+    print(i)
+    i=i+1
+    #i+=1 //dos opciones para hacer
