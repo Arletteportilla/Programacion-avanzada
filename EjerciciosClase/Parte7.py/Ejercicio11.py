@@ -3,3 +3,4 @@
  True if it finds a variable in the specified sequence and 
  False otherwise.
 """
+print(True)
